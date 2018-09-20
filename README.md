@@ -8,9 +8,16 @@ To submit your lab, clone [this repository](https://github.com/FAR-Lab/IDD-Fa18-
 
 ## Part A. Actuating DC motors
 
+ ![alt text](https://github.com/contactkoh/IDD-Fa18-Lab4/blob/master/DCmotor.jpg)
+ 
+ Video:   [DC motor working](https://youtu.be/5opCuWPJ3xo)
 **Link to a video of your virbation motor**
 
 ## Part B. Actuating Servo motors
+ ![alt text](https://github.com/contactkoh/IDD-Fa18-Lab4/blob/master/DCmotor.jpg)
+ Video:   [DC motor working](https://youtu.be/5opCuWPJ3xo)
+
+Orange strip goes to pin 9, Red to 5V, Brown to GND
 
 ### Part 1. Connect the Servo to your breadboard
 

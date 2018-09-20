@@ -1,10 +1,13 @@
 # Paper Puppets
 
-*A lab report by John Q. Student*
+*A lab report by Hongyun(Kevin) Oh*
+ho247@cornell.edu
+
 
 ## In this Report
 
-To submit your lab, clone [this repository](https://github.com/FAR-Lab/IDD-Fa18-Lab4). You'll need to describe your design, include a video of your paper display in operation, and upload any code you wrote to make it move.
+THIS IS THE BEST AND MOST ENJOYABLE LAB SO FAR! :) 
+
 
 ## Part A. Actuating DC motors
 
@@ -43,6 +46,7 @@ delay(15)
 
 The whole code is below:
 
+
 void loop() {
   for (pos = 0; pos <= 180; pos += 1) { // goes from 0 degrees to 180 degrees
     // in steps of 1 degree
@@ -54,6 +58,7 @@ void loop() {
     delay(15);                       // waits 15ms for the servo to reach the position
   }
 }
+
 
 ## Part C. Integrating input and output
 

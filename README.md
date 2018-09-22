@@ -84,14 +84,20 @@ Video:   [Puppet Moving](https://youtu.be/v9OuYEZoh2U)
 
 **a. Make a video of your final design.**
  
- Video:   [Dancing Puppet?](https://youtu.be/BKOy3Jmkx3Q)
+Puppet Dancing without Delay
+
+Video:   [Dancing Puppet on the Spot!](https://youtu.be/umnmh-8tTpc)
+
+Puppet Dancing with delay for the melody note
+
+Video:   [Dancing Puppet to the Groove!](https://youtu.be/BKOy3Jmkx3Q)
  
- I wanted to move the Puppet as I turn the knob low or high and also make the speaker ring a different melody for low v high turn on the knob (potentiometer) so that the Puppet is dancing to a different melody.
+ I wanted to move the Puppet as I turn the knob low or high and also make the speaker ring a different melody for low v high turn on the knob (potentiometer) so that the Puppet is dancing to a different melody.  I made two versions - one without delay for melody duration using the BlinkwithouDelay Example, and the other one with delay for the full melody note duration.  Effect is somewhat different but interesting as can be seen on the Video. The second one with the delay for the melody is more grooving to the tune where as the first one reacts to my own potentiometer turning in real time. 
  
   ![alt text](https://github.com/contactkoh/IDD-Fa18-Lab4/blob/master/DancingServo.jpg)
 
 
- Video:   [Code](https://github.com/contactkoh/IDD-Fa18-Lab4/blob/master/toneMelody_Servo.ino)
+Code: [Code](https://github.com/contactkoh/IDD-Fa18-Lab4/blob/master/toneMelody_Servo.ino)
 
 
  THIS IS THE BEST AND MOST ENJOYABLE LAB SO FAR! :)

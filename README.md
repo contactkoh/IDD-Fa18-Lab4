@@ -84,7 +84,15 @@ Video:   [Puppet Moving](https://youtu.be/v9OuYEZoh2U)
 
 **a. Make a video of your final design.**
  
- Video:   [Puppet Moving my way](https://youtu.be/IAmvl3osk8M)
+ Video:   [Dancing Puppet?](https://youtu.be/BKOy3Jmkx3Q)
  
+ I wanted to move the Puppet as I turn the knob low or high and also make the speaker ring a different melody for low v high turn on the knob (potentiometer) so that the Puppet is dancing to a different melody.
+ 
+  ![alt text](https://github.com/contactkoh/IDD-Fa18-Lab4/blob/master/DancingServo.jpg)
+
+
+ Video:   [Code](https://github.com/contactkoh/IDD-Fa18-Lab4/blob/master/toneMelody_Servo.ino)
+
+
  
  

@@ -94,5 +94,7 @@ Video:   [Puppet Moving](https://youtu.be/v9OuYEZoh2U)
  Video:   [Code](https://github.com/contactkoh/IDD-Fa18-Lab4/blob/master/toneMelody_Servo.ino)
 
 
- 
+ THIS IS THE BEST AND MOST ENJOYABLE LAB SO FAR! :)
+
+
  

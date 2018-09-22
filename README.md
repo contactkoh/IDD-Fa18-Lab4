@@ -74,9 +74,9 @@ Video:   [Servo Motor with raw circuit](https://youtu.be/IAmvl3osk8M)
 
 **a. Make a video of your proto puppet.**
 
-Video:   [Puppet Moving](https://youtu.be/IAmvl3osk8M)
+Video:   [Puppet Moving](https://youtu.be/v9OuYEZoh2U)
 
- ![alt text](https://github.com/contactkoh/IDD-Fa18-Lab4/blob/master/Puppet1.jpg)
+ ![alt text](https://github.com/contactkoh/IDD-Fa18-Lab4/blob/master/Puppet2.jpg)
 
 
 

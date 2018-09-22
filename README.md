@@ -10,18 +10,19 @@ THIS IS THE BEST AND MOST ENJOYABLE LAB SO FAR! :)
 
 
 ## Part A. Actuating DC motors
-
- ![alt text](https://github.com/contactkoh/IDD-Fa18-Lab4/blob/master/DCmotor.jpg)
  
- Video:   [DC motor working](https://youtu.be/5opCuWPJ3xo)
 **Link to a video of your virbation motor**
 
+Video:   [DC motor working](https://youtu.be/3zkNKT3zdvQ)
+
+ ![alt text](https://github.com/contactkoh/IDD-Fa18-Lab4/blob/master/DCmotor.jpg)
+
 ## Part B. Actuating Servo motors
- Video:   [DC motor working](https://youtu.be/5opCuWPJ3xo)
+ Video:   [Servo Motor](https://youtu.be/nEDxBitw8-o)
 
 ### Part 1. Connect the Servo to your breadboard
 
- ![alt text](https://github.com/contactkoh/IDD-Fa18-Lab4/blob/master/DCmotor.jpg)
+ ![alt text](https://github.com/contactkoh/IDD-Fa18-Lab4/blob/master/BreadboardServo.jpg)
 
 **a. Which color wires correspond to power, ground and signal?**
 
@@ -64,13 +65,26 @@ void loop() {
 
 **Include a photo/movie of your raw circuit in action.**
 
+Video:   [Servo Motor with raw circuit](https://youtu.be/IAmvl3osk8M)
+
+ ![alt text](https://github.com/contactkoh/IDD-Fa18-Lab4/blob/master/ServoCircuit.jpg)
 
 
 ## Part D. Paper puppet
 
 **a. Make a video of your proto puppet.**
 
+Video:   [Puppet Moving](https://youtu.be/IAmvl3osk8M)
+
+ ![alt text](https://github.com/contactkoh/IDD-Fa18-Lab4/blob/master/Puppet1.jpg)
+
+
+
 ## Part E. Make it your own
 
 **a. Make a video of your final design.**
+ 
+ Video:   [Puppet Moving my way](https://youtu.be/IAmvl3osk8M)
+ 
+ 
  
